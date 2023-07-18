@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-glass",
+  "name": "koder-blog",
   "private": true,
-  "description": "A minimal & beautiful gatsby personal blog starter with a nice glassmorphism UI.",
+  "description": "Welcome to Koder's blog, a sleek and stunning personal blog powered by Gatsby. ",
   "version": "1.0.0",
-  "author": "Yinka Adedire <yinkakun@gmail.com>",
+  "author": "My Chan <jmckenzie152000@@gmail.com>",
   "dependencies": {
     "babel-plugin-styled-components": "^2.0.7",
     "gatsby": "^4.24.3",

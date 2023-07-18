@@ -1,8 +1,8 @@
 ---
 template: "index-template"
-title: "Gatsby Starter Glass"
+title: "console.log('Hello World')"
 ---
 
-# Hello World
+# console.log('Hello World')
 
-A minimal & beautiful gatsby personal blog starter with nice glassmorphism UI.
+Welcome to Koder's blog, a sleek and stunning personal blog powered by Gatsby. 
