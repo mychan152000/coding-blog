@@ -82,7 +82,7 @@ const ContactForm = () => {
             </div>
           </FormGroup>
 
-          <FormGroup>
+          {/* <FormGroup>
             <label htmlFor="message">Your message</label>
             <textarea
               id="message"
@@ -108,7 +108,7 @@ const ContactForm = () => {
                 Something went wrong, please try again.
               </FormErrorFeedback>
             )}
-          </FormFeedbackWrapper>
+          </FormFeedbackWrapper> */}
 
           <FormButton type="submit">Send Message</FormButton>
         </NetlifyFormComponent>
